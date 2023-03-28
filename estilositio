@@ -1,0 +1,22 @@
+h1{
+    color: #7becec;
+    background-color: rgb(221, 79, 79);
+}
+body{
+    background-color: #7becec;
+    color: rgb(221, 79, 79)
+}
+img{
+    border-radius: 86px;
+    width: 88px;
+    height: 79px;
+}
+.textoazul{
+    color: blue;
+    font-size: large;
+}
+.textorojo{
+    color: crimson;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
